@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/authenticate/VerificateurUsersPasswordHash.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/KindOfBoatBean.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/PlaceAlreadyTakenException.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogBoatInfo.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/MoyenDeTransport.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogInformationBoat.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/logins/DialLogin.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/BoatBean.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/FichierLog.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Pavillon.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicPhare/DialogIncomingBoat.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Amarrage.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/BoatEvent.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogLog.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/AUnIdentifiant.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/message/TypeMessage.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/BateauPeche.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/AvecPersonne.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogPersonInfo.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/MoyenDeTransportEau.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/authenticate/IConnectable.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Arrivee.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/authenticate/Verificateur.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogChooseAmarrage.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Bateau.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogNewUser.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Personne.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/UtilisateurNombre.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogListing.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/BoatEventListener.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogNewCrew.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Ponton.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/ShipWithoutIdentificationException.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/authenticate/VerificateurMotDePasse.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/NotifyBean.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/PortProperties.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/SailorWithoutIdentificationException.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogAide.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Marin.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/ApplicCapitainerie.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicCapitainerie/DialogDate.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Equipage.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/BateauPlaisance.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/guis/applicPhare/ApplicPhare.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/beans/ThreadRandomGenerator.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/authenticate/Validateur.java</file>
+            <file>file:/D:/Dropbox/HEPL2/Java/2/GestionHarbour/src/mainClasses/Quai.java</file>
+        </group>
+    </open-files>
+</project-private>
